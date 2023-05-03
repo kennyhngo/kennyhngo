@@ -1,6 +1,6 @@
 # 📖 About Me
 ## Hi there 👋 I'm Kenny
-I am a 4th year student at University of Michigan &ndash; Ann Arbor studying computer science, data science, and applied mathematics. I am currently learning about open source development and contributing to them. I also do daily Leetcode for fun, and to stay clean on my algorithms and problem solving.
+I am a recent graduate from the University of Michigan &ndash; Ann Arbor with degrees in computer science, data science, and applied mathematics. I am currently learning about open source development and contributing to them. I also do daily Leetcode for fun, and to stay clean on my algorithms and problem solving.
 
 # 💻 Tech Stack
 
