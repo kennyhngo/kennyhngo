@@ -34,7 +34,7 @@ I am a recent graduate from the University of Michigan &ndash; Ann Arbor with de
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kennyhngo&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 # 🌐 Connect With Me
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](<kngo@umich.edu>)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](<kennyngodev@gmail.com>)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khngo)
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/kennyhngo/)
 
