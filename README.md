@@ -31,7 +31,8 @@ I am a recent graduate from the University of Michigan &ndash; Ann Arbor with de
 # 📊 GitHub Stats
 <!-- ![](https://github-readme-stats.vercel.app/api?username=kennyhngo&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=true)<br/> -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kennyhngo&theme=ayu-mirage&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kennyhngo&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kennyhngo&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=true&layout=compact)  
+[![<Kenny>'s LeetCode Stats](https://leetcode-stats.vercel.app/api?username=kennyhngo&theme=light)](https://github.com/JeremyTsaii/leetcode-stats)
 
 # 🌐 Connect With Me
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kennyngodev@gmail.com)
